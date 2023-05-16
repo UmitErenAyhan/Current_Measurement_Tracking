@@ -1,5 +1,5 @@
 # Current_Measurement_Tracking
-Project from my internship at TrioMobil that measures current and graph this measurement.
+Project from my internship at Trio Mobil that measures current and graph this measurement.
 
 ## Team Members
 - [Idil Bil](https://github.com/idil-bil)
